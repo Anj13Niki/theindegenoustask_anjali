@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theindegenoustask_anjali/static/css/main.2fee805a.css",
+    "main.js": "/theindegenoustask_anjali/static/js/main.241d3397.js",
+    "static/js/787.c483b944.chunk.js": "/theindegenoustask_anjali/static/js/787.c483b944.chunk.js",
+    "index.html": "/theindegenoustask_anjali/index.html",
+    "main.2fee805a.css.map": "/theindegenoustask_anjali/static/css/main.2fee805a.css.map",
+    "main.241d3397.js.map": "/theindegenoustask_anjali/static/js/main.241d3397.js.map",
+    "787.c483b944.chunk.js.map": "/theindegenoustask_anjali/static/js/787.c483b944.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fee805a.css",
+    "static/js/main.241d3397.js"
+  ]
+}
